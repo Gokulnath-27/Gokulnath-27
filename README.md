@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul-dev-creator" alt="gokul-dev-creator" /></a> </p>
 
-- 🔭 I’m currently working on [Cable-pro](https://github.com/Gokul-dev-creator/Cable-pro)
+- 🔭 I’m currently working on [Cable-pro](https://github.com/Gokulnath-27/Cable-pro)
 
 - 🌱 I’m currently learning **React, Bootstrap**
 
