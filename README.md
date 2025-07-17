@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://gokul-dev-creator.github.io/Portfolio/](https://gokulnath-27.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://gokul-dev-creator.github.io/Portfolio/](https://Gokulnath-27.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gokulnath-27&show_icons=true&locale=en&layout=compact" alt="gokulnath N" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulnath-27&show_icons=true&locale=en" alt="gokul-dev-creator" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulnath-27&show_icons=true&locale=en" alt="gokul-dev-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulnath-27&" alt="gokulnath N" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulnath-27&" alt="gokulnath N" /></p>
