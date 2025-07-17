@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokulnath N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-dev-creator&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-dev-creator" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-dev-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Gokulnath N" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul-dev-creator" alt="gokul-dev-creator" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://gokul-dev-creator.github.io/Portfolio/](https://gokul-dev-creator.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://gokul-dev-creator.github.io/Portfolio/](https://gokulnath-27.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript**
 
