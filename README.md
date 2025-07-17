@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gokulnath272006@gmail.com**
 
-<h3 align="left">Connect with me:https:<a href="https://in.linked.com/in/gokulnath-n-01b837319">Linkedin</a></h3>
+<h3 align="left">Connect with me:https:<a href="https://in.linked.com/in/gokulnath-n-01b837319">  Linkedin</a></h3>
 <p align="left">
 </p>
 
